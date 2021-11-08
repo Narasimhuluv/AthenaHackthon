@@ -9,14 +9,14 @@
   <p align="center">
     An website with similar functionality like medium
     <br />
-    <a href="https://github.com/palacharlanarendra"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/Narasimhuluv/AthenaHackthon"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/palacharlanarendra">View Demo</a>
+    <a href="https://blog-application-six.vercel.app/">View Demo</a>
     ·
-    <a href="https://github.com/palacharlanarendra">Report Bug</a>
+    <a href="https://github.com/Narasimhuluv/AthenaHackthon">Report Bug</a>
     ·
-    <a href="https://github.com/palacharlanarendra">Request Feature</a>
+    <a href="https://github.com/Narasimhuluv/AthenaHackthon">Request Feature</a>
   </p>
 </p>
 
@@ -31,7 +31,7 @@
       </ul>
     </li>
     <li>
-      <a href="#live-project">Live Project</a>
+      <a href="https://blog-application-six.vercel.app/">Live Project</a>
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#installation">Installation</a></li>
@@ -135,7 +135,7 @@ Contributions are what make the open source community such an amazing place to l
 5. Open a Pull Request
 
 ## Backend API
-Project's backend code is available in the [Api_backend](https://github.com/palacharlanarendra/medium-API-clone/tree/main/Api_backend) folder in the same repo, 
+Project's backend code is available in the [Api_backend](https://github.com/Narasimhuluv/AthenaHackthon/tree/main/blog-app/backend) folder in the same repo, 
 All the end points are provided here for the API manual testing.  
 
 Api deployed over here [BASE URL](https://mighty-oasis-08080.herokuapp.com/api/).  
@@ -342,12 +342,17 @@ No authentication required, returns a [List of Tags](/specs/backend-specs/api-re
 
 
 <!-- CONTACT -->
-## Contact
+## Contact Our Team
+v
+Your Name - [@V.Narasimhulu](https://twitter.com/NarasimhuluV) - vasamnarasimhulu123@gmail.com
 
 Your Name - [@narendrapalach1](https://twitter.com/narendrapalach1) - narendrapalacharla@gmail.com
 
-Your Name - [@your_twitter](https://twitter.com/narendrapalach1) - me.aaurushi@gmail.com
-Project Link: []()
+Your Name - [@Aarushi](https://github.com/Aarushichopra) - aarushichopra@gmail.com
+
+Your Name - [@sohail Shaik](https://github.com/sohailshaik8328) - sohailshaik765@gmail.com
+
+Project Link: [view project](hhttps://github.com/Narasimhuluv/AthenaHackthon)
 
 
 
