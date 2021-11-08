@@ -77,8 +77,11 @@ frameworks, tech stack used to build this project,are:
 <!-- GETTING STARTED -->
 ## Live project
 
-* [Live Project]()
+* [Live Project](https://blog-application-six.vercel.app/)
 
+## Backend API
+
+* [API](https://mighty-oasis-08080.herokuapp.com/api/)
 
 
 ### Prerequisites
